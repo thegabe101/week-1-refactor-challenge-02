@@ -16,7 +16,9 @@ This was a code refactoring assignment seeking to increase semantic intelligibil
 ## Usage 
 
 This website is intended as a mockup landing page for a company focused on SEO and online management. This repository holds only the front page. It can be read and has several nav links at the top to take the reader to the intended section. 
-    
+
+## URLRepo
+
 Repository URL: https://github.com/thegabe101/week-1-refactor-challenge-02
 
 Deploy URL: https://thegabe101.github.io/week-1-refactor-challenge-02/
