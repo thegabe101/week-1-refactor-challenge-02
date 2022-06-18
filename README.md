@@ -5,16 +5,13 @@ This was a code refactoring assignment seeking to increase semantic intelligibil
 - This project solves issues with extraneous code and a lack of semantic clarity in the original html. It also solves a minor issue with the navbar and uses article ids in order to declutter. 
 - I learned how important semantic tags are and how to avoid using an unecessarily large css packet. 
 
-# <title here>
-
 ## Description
-
-Put a description here....
 
 ## Table-of-Contents
 * [Usage](#usage)
 * [URL (github repository)](#urlrepo)
 * [Screenshot](#screenshot)
+<!--I don't know how to hyperlink to the URLs and screenshots here. This is something I would like to learn.-->
 
 ## Usage 
 
