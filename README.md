@@ -22,9 +22,9 @@ Put a description here....
     
 <describe how to use the app/website here>
 
-## URL (github repository)<a name="urlrepo"></a>
+Repository URL: https://github.com/thegabe101/week-1-refactor-challenge-02
 
-<url to deployed link>
+Deploy URL: https://thegabe101.github.io/week-1-refactor-challenge-02/
 
-## Screenshot
-<screenshot(s) go here>
+![clickme]("C:\Users\Sowa3\Desktop\Git Repositories\Challenge Week 1 02\week-1-refactor-challenge-02\assets\images\landing page screenshot.jpg")
+![clickme]("C:\Users\Sowa3\Desktop\Git Repositories\Challenge Week 1 02\week-1-refactor-challenge-02\assets\images\landing-page-screenshot-2.jpg")
