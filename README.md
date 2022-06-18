@@ -24,5 +24,4 @@ Repository URL: https://github.com/thegabe101/week-1-refactor-challenge-02
 
 Deploy URL: https://thegabe101.github.io/week-1-refactor-challenge-02/
 
-![clickme]("C:\Users\Sowa3\Desktop\Git Repositories\Challenge Week 1 02\week-1-refactor-challenge-02\landing page screenshot.jpg"")
-![clickme]("C:\Users\Sowa3\Desktop\Git Repositories\Challenge Week 1 02\week-1-refactor-challenge-02\assets\images\landing-page-screenshot-2.jpg")
+![landing page screenshot](https://user-images.githubusercontent.com/104788842/174419120-c4f6b84f-3bde-41a4-a999-5396f7a03d92.jpg)
