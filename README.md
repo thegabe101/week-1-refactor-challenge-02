@@ -16,12 +16,10 @@ Put a description here....
 * [URL (github repository)](#urlrepo)
 * [Screenshot](#screenshot)
 
+## Usage 
 
-
-## Usage      
+This website is intended as a mockup landing page for a company focused on SEO and online management. This repository holds only the front page. It can be read and has several nav links at the top to take the reader to the intended section. 
     
-<describe how to use the app/website here>
-
 Repository URL: https://github.com/thegabe101/week-1-refactor-challenge-02
 
 Deploy URL: https://thegabe101.github.io/week-1-refactor-challenge-02/
